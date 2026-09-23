@@ -1,0 +1,26 @@
+# Unlayer Voice Roadmap
+
+- [ ] 00 Foundation
+- [ ] 01 Domain model
+- [ ] 02 Identity integration
+- [ ] 03 SIP parser
+- [ ] 04 SIP transactions
+- [ ] 05 Digest authentication
+- [ ] 06 Registration
+- [ ] 07 Endpoint state
+- [ ] 08 Call state
+- [ ] 09 Routing
+- [ ] 10 Numbers
+- [ ] 11 Trunks
+- [ ] 12 CDR/events
+- [ ] 13 Database
+- [ ] 14 HA
+- [ ] 15 RTP/media
+- [ ] 16 Recording/codecs
+- [ ] 17 Security/fraud
+- [ ] 18 Public API
+- [ ] 19 Webhooks
+- [ ] 20 Local harness
+- [ ] 21 Chaos
+- [ ] 22 Performance/soak
+- [ ] 23 Production readiness
